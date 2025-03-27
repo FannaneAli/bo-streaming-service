@@ -7,7 +7,7 @@ import lombok.Data;
 @Entity
 @DiscriminatorValue("MOVIE")
 public class AnimeMovie extends Anime {
-
+//,kkj
 
     private String director;
     private String productionStudio;
