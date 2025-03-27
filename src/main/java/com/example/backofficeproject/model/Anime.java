@@ -15,7 +15,7 @@ public class Anime {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
-
+//hello world
     private String title;
     private String description;
     private String coverImageUrl;
